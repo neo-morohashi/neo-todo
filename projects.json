@@ -10,11 +10,6 @@
     "parent": null
   },
   {
-    "id": "飲みに行く",
-    "label": "飲みに行く",
-    "parent": null
-  },
-  {
     "id": "マーサー",
     "label": "マーサー",
     "parent": null
@@ -57,6 +52,11 @@
   {
     "id": "SNSネタ",
     "label": "SNSネタ",
+    "parent": null
+  },
+  {
+    "id": "飲みに行く",
+    "label": "飲みに行く",
     "parent": null
   },
   {
