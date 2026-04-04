@@ -5,11 +5,6 @@
     "parent": null
   },
   {
-    "id": "Private",
-    "label": "Private",
-    "parent": null
-  },
-  {
     "id": "マーサー",
     "label": "マーサー",
     "parent": null
@@ -43,6 +38,11 @@
     "id": "Mercer-BM",
     "label": "Mercer BM",
     "parent": "マーサー"
+  },
+  {
+    "id": "Private",
+    "label": "Private",
+    "parent": null
   },
   {
     "id": "Google本",
