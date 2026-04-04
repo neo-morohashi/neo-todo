@@ -68,10 +68,5 @@
     "id": "triathlon",
     "label": "triathlon",
     "parent": null
-  },
-  {
-    "id": "test",
-    "label": "test",
-    "parent": null
   }
 ]
