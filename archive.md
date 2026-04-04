@@ -7,3 +7,4 @@
 - [x] DTMスケジュール | completed:2026-04-04
 - [x] ケフィア | completed:2026-04-04
 - [x] 西村あさひ様工数 | completed:2026-04-04
+- [x] お腹栄養チェック | completed:2026-04-04
