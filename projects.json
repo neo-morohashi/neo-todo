@@ -1,0 +1,77 @@
+[
+  {
+    "id": "inbox",
+    "label": "Inbox",
+    "parent": null
+  },
+  {
+    "id": "Private",
+    "label": "Private",
+    "parent": null
+  },
+  {
+    "id": "飲みに行く",
+    "label": "飲みに行く",
+    "parent": null
+  },
+  {
+    "id": "マーサー",
+    "label": "マーサー",
+    "parent": null
+  },
+  {
+    "id": "Mercer-考えること",
+    "label": "Mercer 考えること",
+    "parent": "マーサー"
+  },
+  {
+    "id": "Mercer-Admin",
+    "label": "Mercer Admin",
+    "parent": "マーサー"
+  },
+  {
+    "id": "精算",
+    "label": "精算",
+    "parent": "マーサー"
+  },
+  {
+    "id": "Mercer-AI",
+    "label": "Mercer AI",
+    "parent": "マーサー"
+  },
+  {
+    "id": "Mercer-BD",
+    "label": "Mercer BD",
+    "parent": "マーサー"
+  },
+  {
+    "id": "Mercer-BM",
+    "label": "Mercer BM",
+    "parent": "マーサー"
+  },
+  {
+    "id": "Google本",
+    "label": "Google本",
+    "parent": null
+  },
+  {
+    "id": "SNSネタ",
+    "label": "SNSネタ",
+    "parent": null
+  },
+  {
+    "id": "アプリアイデア",
+    "label": "アプリアイデア",
+    "parent": null
+  },
+  {
+    "id": "triathlon",
+    "label": "triathlon",
+    "parent": null
+  },
+  {
+    "id": "test",
+    "label": "test",
+    "parent": null
+  }
+]
