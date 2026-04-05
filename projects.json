@@ -63,5 +63,10 @@
     "id": "アプリアイデア",
     "label": "アプリアイデア",
     "parent": null
+  },
+  {
+    "id": "テスト",
+    "label": "テスト",
+    "parent": null
   }
 ]
