@@ -35,6 +35,11 @@
     "parent": "マーサー"
   },
   {
+    "id": "テスト",
+    "label": "テスト",
+    "parent": null
+  },
+  {
     "id": "Mercer-BM",
     "label": "Mercer BM",
     "parent": "マーサー"
@@ -62,11 +67,6 @@
   {
     "id": "アプリアイデア",
     "label": "アプリアイデア",
-    "parent": null
-  },
-  {
-    "id": "テスト",
-    "label": "テスト",
     "parent": null
   }
 ]
