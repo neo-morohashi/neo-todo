@@ -21,3 +21,4 @@
 - [x] 大池先生 | due:2026-04-05 | completed:2026-04-05
 - [x] 高田先生 | completed:2026-04-05
 - [x] Claudeアカウント追加 | due:2026-04-06 | completed:2026-04-06
+- [x] ユーグレナ井上さんにzoom | due:2026-04-06 | completed:2026-04-06
