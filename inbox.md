@@ -1,6 +1,5 @@
 # Inbox
 
-- [ ] 亀田さん
 - [ ] Elliott code設定待ち | due:2026-04-10
 - [ ] BMデータタグ
 - [ ] Claudeドメイン変換
