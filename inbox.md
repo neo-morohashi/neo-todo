@@ -9,3 +9,4 @@
 - [ ] ドッグシッター
 - [ ] SUI noteレビュワー相談
 - [ ] Workforce insight CoE機能
+- [ ] アサイン申請
