@@ -10,3 +10,4 @@
 - [ ] SUI noteレビュワー相談
 - [ ] Workforce insight CoE機能
 - [ ] アサイン申請
+- [ ] 打ち上げ申請 | P2 | due:2026-04-13
