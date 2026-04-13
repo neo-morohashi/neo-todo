@@ -32,3 +32,4 @@
 - [x] BMデータタグ | completed:2026-04-10
 - [x] 三井不動産日程調整 | due:2026-04-10 | completed:2026-04-13
 - [x] de-sign様日程調整 | due:2026-04-13 | completed:2026-04-13
+- [x] SUI noteレビュワー相談 | completed:2026-04-13
