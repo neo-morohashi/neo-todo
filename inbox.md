@@ -8,3 +8,4 @@
 - [ ] 日高さん日程調整
 - [ ] ドッグシッター
 - [ ] SUI noteレビュワー相談
+- [ ] Workforce insight CoE機能
