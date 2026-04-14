@@ -37,3 +37,4 @@
 - [x] ドッグシッター | due:2026-04-13 | completed:2026-04-13
 - [x] 日高さん日程調整 | due:2026-04-13 | completed:2026-04-14
 - [x] HDS定義を考える | completed:2026-04-14
+- [x] Nichol備品 | completed:2026-04-14
