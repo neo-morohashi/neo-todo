@@ -40,3 +40,4 @@
 - [x] Nichol備品 | completed:2026-04-14
 - [x] アサイン申請 | due:2026-04-15 | completed:2026-04-15
 - [x] Workforce insight CoE機能 | completed:2026-04-15
+- [x] AIが入る要素をリストアップする | completed:2026-04-15
