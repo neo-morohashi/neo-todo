@@ -42,3 +42,4 @@
 - [x] Workforce insight CoE機能 | completed:2026-04-15
 - [x] AIが入る要素をリストアップする | completed:2026-04-15
 - [x] 資生堂様 | completed:2026-04-15
+- [x] 太田さんスケジューリング | P1 | due:2026-04-16 | completed:2026-04-16
