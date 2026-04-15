@@ -39,3 +39,4 @@
 - [x] HDS定義を考える | completed:2026-04-14
 - [x] Nichol備品 | completed:2026-04-14
 - [x] アサイン申請 | due:2026-04-15 | completed:2026-04-15
+- [x] Workforce insight CoE機能 | completed:2026-04-15
