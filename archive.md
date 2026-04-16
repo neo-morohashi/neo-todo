@@ -44,3 +44,4 @@
 - [x] 資生堂様 | completed:2026-04-15
 - [x] 太田さんスケジューリング | P1 | due:2026-04-16 | completed:2026-04-16
 - [x] D-lab大瀧代表と話す（AI変革） | completed:2026-04-16
+- [x] Notta OPQ? 埋める | completed:2026-04-16
