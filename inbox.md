@@ -1,6 +1,6 @@
 # Inbox
 
-- [ ] Elliott code設定待ち | due:2026-04-14
+- [ ] Elliott code設定待ち | due:2026-04-20
 - [ ] Claudeドメイン変換
 - [ ] エッセー（AIこわい？） | due:2026-04-19
 - [ ] OT occasionリスト整理 | due:2026-04-17
