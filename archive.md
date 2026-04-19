@@ -52,3 +52,4 @@
 - [x] Nichol個人情報回収 | completed:2026-04-19
 - [x] コクヨ：日程調整（引越しOD） | completed:2026-04-19
 - [x] OT occasionリスト整理 | due:2026-04-17 | completed:2026-04-19
+- [x] GIF練習 | completed:2026-04-19
