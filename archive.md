@@ -47,3 +47,4 @@
 - [x] Notta OPQ? 埋める | completed:2026-04-16
 - [x] Elliott code設定待ち | due:2026-04-20 | completed:2026-04-18
 - [x] フライトキャンセル精算 | completed:2026-04-18
+- [x] リンク共有は別ページへも作る | completed:2026-04-19
