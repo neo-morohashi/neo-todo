@@ -53,3 +53,4 @@
 - [x] コクヨ：日程調整（引越しOD） | completed:2026-04-19
 - [x] OT occasionリスト整理 | due:2026-04-17 | completed:2026-04-19
 - [x] GIF練習 | completed:2026-04-19
+- [x] 弥生リマインド（契約） | due:2026-04-24 | completed:2026-04-21
