@@ -6,4 +6,3 @@
 - [ ] BCM KM programの確認
 - [ ] 10000円間違えて精算
 - [ ] LLM WIKI
-- [ ] Raymondにアクセルスターズ資料
