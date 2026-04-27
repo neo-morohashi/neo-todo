@@ -59,3 +59,4 @@
 - [x] 小野薬品スケジュール | completed:2026-04-24
 - [x] Raymondにアクセルスターズ資料 | completed:2026-04-24
 - [x] LLM WIKI | completed:2026-04-27
+- [x] Claudeドメイン変換 | completed:2026-04-27
