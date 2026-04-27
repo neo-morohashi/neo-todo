@@ -60,3 +60,4 @@
 - [x] Raymondにアクセルスターズ資料 | completed:2026-04-24
 - [x] LLM WIKI | completed:2026-04-27
 - [x] Claudeドメイン変換 | completed:2026-04-27
+- [x] 資生堂さまに日程調整 | P1 | due:2026-04-10 | completed:2026-04-27
