@@ -64,3 +64,4 @@
 - [x] CMIC様にグループコーチング共有 | due:2026-04-10 | completed:2026-04-27
 - [x] 肉注文 | completed:2026-05-01
 - [x] 日高さん連絡 | completed:2026-05-02
+- [x] BCM KM programの確認 | completed:2026-05-02
