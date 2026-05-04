@@ -66,3 +66,4 @@
 - [x] 日高さん連絡 | completed:2026-05-02
 - [x] BCM KM programの確認 | completed:2026-05-02
 - [x] 小野薬品ブリーフィング | completed:2026-05-04
+- [x] 10000円間違えて精算 | completed:2026-05-04
