@@ -1,38 +1,33 @@
 [
   {
-    "id": "マーサー",
-    "label": "マーサー",
-    "parent": null
-  },
-  {
     "id": "Mercer-考えること",
     "label": "Mercer 考えること",
-    "parent": "マーサー"
+    "parent": null
   },
   {
     "id": "Mercer-Admin",
     "label": "Mercer Admin",
-    "parent": "マーサー"
+    "parent": null
   },
   {
     "id": "精算",
     "label": "精算",
-    "parent": "マーサー"
+    "parent": null
   },
   {
     "id": "Mercer-AI",
     "label": "Mercer AI",
-    "parent": "マーサー"
+    "parent": null
   },
   {
     "id": "Mercer-BD",
     "label": "Mercer BD",
-    "parent": "マーサー"
+    "parent": null
   },
   {
     "id": "Mercer-BM",
     "label": "Mercer BM",
-    "parent": "マーサー"
+    "parent": null
   },
   {
     "id": "Private",
