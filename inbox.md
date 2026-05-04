@@ -4,7 +4,6 @@
 - [ ] vancouver kerowna flight
 - [ ] キャリア採用者懇親会の幹事をする（6月開催予定・京極/福田/前川/岩田/石橋さん） #Mercer-Admin | P3 | due:2026-05-29
 - [ ] チェア出品
-- [ ] 3ヶ月分のAI手当領収書を提出する #Mercer-Admin | due:2026-04-10
 - [ ] コンサル領域とAI要素を統合してパッケージ化する #Mercer-AI
 - [ ] YKK提案 #Mercer-BD
 - [ ] BMのビジネスプラン・提案パッケージを作る #Mercer-BM

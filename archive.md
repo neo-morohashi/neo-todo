@@ -67,3 +67,4 @@
 - [x] BCM KM programの確認 | completed:2026-05-02
 - [x] 小野薬品ブリーフィング | completed:2026-05-04
 - [x] 10000円間違えて精算 | completed:2026-05-04
+- [x] 3ヶ月分のAI手当領収書を提出する #Mercer-Admin | due:2026-04-10 | completed:2026-05-04
