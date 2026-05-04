@@ -3,3 +3,23 @@
 - [ ] コクヨ：日程調整（食事）
 - [ ] vancouver kerowna flight
 - [ ] チェア出品
+- [ ] キャリア採用者懇親会の幹事をする（6月開催予定・京極/福田/前川/岩田/石橋さん） #Mercer-Admin | due:2026-04-30 | pending_delete:1
+- [ ] 3ヶ月分のAI手当領収書を提出する #Mercer-Admin | due:2026-04-10
+- [ ] 大阪バス 730円を精算提出する #精算 | due:2026-04-10
+- [ ] コンサル領域とAI要素を統合してパッケージ化する #Mercer-AI
+- [ ] YKK提案 #Mercer-BD
+- [ ] BMのビジネスプラン・提案パッケージを作る #Mercer-BM
+- [ ] Pitapaを解約する（維持管理利用料） #Private
+- [ ] 亀田さん #Private
+- [ ] 元リクルート FLUX西村さん献本を用意する #Google本 | due:2026-04-11
+- [ ] 大池先生 #Google本
+- [ ] セイノー田口社長 #Google本
+- [ ] セイノー（Eight)田口義展さま #Google本
+- [ ] Colin visit #SNSネタ
+- [ ] Microsoft AI AGENT readiness #SNSネタ
+- [ ] セコイア記事 #SNSネタ
+- [ ] McKinsey スキル変革レポート（MGI 2025）をSNSネタにする #SNSネタ
+- [ ] こはぜを予約する #飲みに行く | due:2026-04-10
+- [ ] パーソナリティ診断 #アプリアイデア
+- [ ] 適職診断 #アプリアイデア
+- [ ] Amazonとか本の抜き出し #アプリアイデア

@@ -1,10 +1,5 @@
 [
   {
-    "id": "inbox",
-    "label": "Inbox",
-    "parent": null
-  },
-  {
     "id": "マーサー",
     "label": "マーサー",
     "parent": null
