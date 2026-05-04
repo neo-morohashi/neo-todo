@@ -1,6 +1,6 @@
 # Inbox
 
-- [ ] コクヨ：日程調整（食事）
+- [ ] コクヨ：日程調整（食事） | pending_delete:1
 - [ ] vancouver kerowna flight
 - [ ] キャリア採用者懇親会の幹事をする（6月開催予定・京極/福田/前川/岩田/石橋さん） #Mercer-Admin | P3 | due:2026-05-29
 - [ ] チェア出品
