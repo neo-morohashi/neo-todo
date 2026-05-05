@@ -15,6 +15,5 @@
 - [ ] Microsoft AI AGENT readiness #SNSネタ
 - [ ] セコイア記事 #SNSネタ
 - [ ] McKinsey スキル変革レポート（MGI 2025）をSNSネタにする #SNSネタ
-- [ ] パーソナリティ診断 #アプリアイデア | pending_delete:1
 - [ ] 適職診断 #アプリアイデア
 - [ ] 大阪バス 730円を精算提出する #精算 | due:2026-05-29
