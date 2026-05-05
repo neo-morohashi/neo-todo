@@ -13,7 +13,7 @@
 - [ ] 大池先生 #Google本
 - [ ] セイノー田口社長 #Google本
 - [ ] セイノー（Eight)田口義展さま #Google本
-- [ ] Colin visit #SNSネタ
+- [ ] Colin visit #SNSネタ | pending_delete:1
 - [ ] Microsoft AI AGENT readiness #SNSネタ
 - [ ] セコイア記事 #SNSネタ
 - [ ] McKinsey スキル変革レポート（MGI 2025）をSNSネタにする #SNSネタ
