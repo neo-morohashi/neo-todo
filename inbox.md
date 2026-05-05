@@ -3,7 +3,7 @@
 - [ ] vancouver kerowna flight #Private | due:2026-05-05
 - [ ] キャリア採用者懇親会の幹事をする（6月開催予定・京極/福田/前川/岩田/石橋さん） #Mercer-Admin | P3 | due:2026-05-29
 - [ ] コクヨ：日程調整（食事） #Dinner
-- [ ] チェア出品 | due:2026-05-07
+- [ ] チェア出品 #Private | due:2026-05-07
 - [ ] YKK提案 #Mercer-BD
 - [ ] BMのビジネスプラン・提案パッケージを作る #Mercer-BM
 - [ ] Pitapaを解約する（維持管理利用料） #Private
