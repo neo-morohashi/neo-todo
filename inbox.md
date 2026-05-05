@@ -10,8 +10,8 @@
 - [ ] 亀田さん #Private | due:2026-05-08
 - [ ] 元リクルート FLUX西村さん献本を用意する #Google本 | due:2026-05-09
 - [ ] 大池先生 #Google本
-- [ ] セイノー田口社長 #Google本
-- [ ] セイノー（Eight)田口義展さま #Google本
+- [ ] セイノー田口社長 #Google本 | due:2026-05-06
+- [ ] セイノー（Eight)田口義展さま #Google本 | due:2026-05-06
 - [ ] Microsoft AI AGENT readiness #SNSネタ
 - [ ] セコイア記事 #SNSネタ
 - [ ] McKinsey スキル変革レポート（MGI 2025）をSNSネタにする #SNSネタ
