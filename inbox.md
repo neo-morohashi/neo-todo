@@ -8,7 +8,7 @@
 - [ ] YKK提案 #Mercer-BD
 - [ ] BMのビジネスプラン・提案パッケージを作る #Mercer-BM
 - [ ] Pitapaを解約する（維持管理利用料） #Private
-- [ ] 亀田さん #Private
+- [ ] 亀田さん #Private | due:2026-05-08
 - [ ] 元リクルート FLUX西村さん献本を用意する #Google本 | due:2026-05-09
 - [ ] 大池先生 #Google本
 - [ ] セイノー田口社長 #Google本
